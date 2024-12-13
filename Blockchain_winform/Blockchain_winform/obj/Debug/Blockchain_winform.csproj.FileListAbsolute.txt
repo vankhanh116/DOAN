@@ -1,0 +1,10 @@
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\obj\Debug\Blockchain_winform.csproj.AssemblyReference.cache
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\obj\Debug\Blockchain_winform.csproj.CoreCompileInputs.cache
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\bin\Debug\Blockchain_winform.exe.config
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\bin\Debug\Blockchain_winform.exe
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\bin\Debug\Blockchain_winform.pdb
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\bin\Debug\Newtonsoft.Json.dll
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\bin\Debug\Newtonsoft.Json.xml
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\obj\Debug\Blockcha.D5B29FFB.Up2Date
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\obj\Debug\Blockchain_winform.exe
+F:\CTDL CUỐI KỲ\Blockchain_winform\Blockchain_winform\obj\Debug\Blockchain_winform.pdb
